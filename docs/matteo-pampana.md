@@ -1,3 +1,5 @@
 Matteo Pampana. I am from Livorno. My favourite food is pasta. My hobby is coding.
 
 **Favourite color:** Blue
+
+**more infos:** This is an example!
